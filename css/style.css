@@ -133,3 +133,18 @@ body {
     margin: 0px;
     background: #7b57ff;
   }
+  .card{
+    border: none;
+    color: white;
+    background: linear-gradient(135deg, #6646d7 0%, #950057 100%);
+    width: 100%;
+
+  }
+  .techs{
+    color: white;
+    font-weight: 900;
+    margin: 10px;
+  }
+  .side{
+   width: 100%;
+  }
