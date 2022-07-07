@@ -25,9 +25,7 @@ h1{
     font-weight: 900;
     font-family: 'Noto Sans JP', sans-serif;
 }
-.container{
-    margin-top: 100px;
-}
+
 body {
     background-color: #f6f6f4;
   }
@@ -147,4 +145,11 @@ body {
   }
   .side{
    width: 100%;
+  }
+  .roll{
+    max-height:90vh ;
+    overflow: scroll;
+  }
+  .iconimg{
+    border-radius: 5px;
   }
